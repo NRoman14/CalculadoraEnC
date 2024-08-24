@@ -1,0 +1,9 @@
+#Carpetas
+.vscode
+
+#Ejecutables
+calculadora.exe
+pruebas.exe
+
+#Files
+pruebas.c
